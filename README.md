@@ -2,7 +2,7 @@
 - 👀 I’m interested in C++ Html and Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Nothing yet
-- 📫 How to reach me --> raided1 (Discord) @ProjectDogeYt (Twitter/ X)
+- 📫 How to reach me --> raided1 (Discord) @TheRaided1 (Twitter/ X)
 
 <!---
 Raided1/Raided1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
